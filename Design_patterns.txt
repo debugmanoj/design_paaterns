@@ -1,0 +1,7 @@
+# Design pattern helping guides
+
+1 ) https://refine.dev/blog/react-design-patterns/#data-management-with-providers
+
+2) https://medium.com/@obrm770/best-practices-and-design-patterns-in-react-js-for-high-quality-applications-6b203be747fb
+
+3) Design pattern github repo example link - https://github.com/obrm/react-best-practices-design-pattens
